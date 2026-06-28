@@ -1,4 +1,4 @@
-# LangChain - Agenti AI
+# LangChain - Agentic AI
 
 Course: https://www.youtube.com/watch?v=rV3HJ4LEZ7k&t=28393s
 
